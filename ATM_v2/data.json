@@ -1,0 +1,36 @@
+{
+    "availableBanknotes": [
+        {
+            "denomination": 1000,
+            "banknotes": 5
+        },
+        {
+            "denomination": 500,
+            "banknotes": 5
+        },
+        {
+            "denomination": 200,
+            "banknotes": 5
+        },
+        {
+            "denomination": 100,
+            "banknotes": 3
+        },
+        {
+            "denomination": 50,
+            "banknotes": 3
+        },
+        {
+            "denomination": 20,
+            "banknotes": 1
+        },
+        {
+            "denomination": 10,
+            "banknotes": 2
+        },
+        {
+            "denomination": 5,
+            "banknotes": 2
+        }
+    ]
+}
